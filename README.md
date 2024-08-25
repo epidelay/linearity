@@ -1,4 +1,4 @@
-# Java code for "Linearity of a drug response curve observed and explained in a hybrid model for SARS–CoV–2".
+# Java code for "Probability of early infection extinction depends linearly on the virus clearance rate".
 
 The Java file uses and is dependent on the Hybrid Autmata Library (HAL) software package, for more information see https://halloworld.org/.
 
